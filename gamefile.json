@@ -23,19 +23,10 @@
         "layout": {
           "direction": "column",
           "content": [
-            { "section": "Transcript" },
-            {
-              "direction": "row",
-              "content": [
-                { "section": "ENV Slot" },
-                { "section": "Play Zone" }
-              ]
-            }
+            { "section": "Transcript" }
           ]
         },
         "sectionsDict": {
-          "ENV Slot": { "isHidden": "no", "height": "MEDIUM", "alignment": "START" },
-          "Play Zone": { "isHidden": "yes", "height": "MEDIUM", "alignment": "START" },
           "Transcript": { "isHidden": "no", "height": "SMALL", "alignment": "START" }
         }
       }
