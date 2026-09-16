@@ -3,16 +3,17 @@
   "deckBuilding": {
     "mainFilters": ["type", "cost", "color"],
     "formats": [
-      { "title": "Standard Format", "gameplay": "Standard" }
+      { "title": "Classic", "gameplay": "Classic" }
     ]
   },
   "gameplay": {
-    "Standard": {
+    "Classic": {
       "mulligan": { 
         "startingHandSize": 5 
       },
       "newTurn": { 
-        "drawOnStart": true,
+        "drawOnStart": false,
+        "sharedTurn": false,
         "drawPerTurn": 1 
       },
       "countersStartingValues": [],
