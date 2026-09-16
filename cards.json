@@ -12,6 +12,7 @@
     },
     "name": "Zenith AC",
     "type": "OJ",
-    "cost": 4
+    "cost": 4,
+    "color": "Green"
   }
 }
