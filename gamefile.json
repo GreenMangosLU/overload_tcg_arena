@@ -12,6 +12,7 @@
         "startingHandSize": 5 
       },
       "newTurn": { 
+        "drawOnStart": true,
         "drawPerTurn": 1 
       },
       "countersStartingValues": [],
