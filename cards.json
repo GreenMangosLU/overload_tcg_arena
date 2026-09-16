@@ -3,7 +3,7 @@
     "id": "S1-001",
     "face": {
       "front": {
-        "name": { "name": "Zenith AC" },
+        "name": "Zenith AC",
         "type": "OJ",
         "cost": 0,
         "color": "Green",
