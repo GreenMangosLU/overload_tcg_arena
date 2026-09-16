@@ -30,13 +30,13 @@
                 {"section": "Play Zone"}
               ]
             },
-            {"direction": "row", "content": [{"section": "Transcript"}]}
+            {"section": "Transcript"}
           ]
         },
         "sectionsDict": {
           "ENV Slot": { "isHidden": "no", "height": "DEFAULT", "alignment": "CENTER" },
           "Play Zone": { "isHidden": "yes", "height": "DEFAULT", "alignment": "CENTER" },
-          "Transcript": { "isHidden": "no", "height": "DEFAULT", "alignment": "CENTER" }
+          "Transcript": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" }
         }
       }
     }
