@@ -9,10 +9,10 @@
   "gameplay": {
     "Standard": {
       "mulligan": { 
-        "startingHandSize": 4 
+        "startingHandSize": 5 
       },
       "newTurn": { 
-        "drawPerTurn": 1,
+        "drawPerTurn": 1 
       },
       "countersStartingValues": [],
       "sections": {
@@ -25,7 +25,6 @@
         }
       }
     }
-  },
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/GreenMangosLU/overload_tcg_arena/refs/heads/main/cards.json",
     "cardBack": "https://github.com/GreenMangosLU/overload_tcg_arena/blob/main/cardback.jpg?raw=true"
