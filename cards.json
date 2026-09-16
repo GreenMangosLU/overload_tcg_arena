@@ -1,0 +1,17 @@
+{
+  "cardId": {
+    "id": "S1-001",
+    "face": {
+      "front": {
+        "name": { "name": "Zenith AC" },
+        "type": "OJ",
+        "cost": 4,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card01.jpg"
+      }
+    },
+    "name": "Zenith AC",
+    "type": "OJ",
+    "cost": 4
+  }
+}
