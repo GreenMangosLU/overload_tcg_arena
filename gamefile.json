@@ -12,7 +12,7 @@
         "startingHandSize": 4 
       },
       "newTurn": { 
-        "drawOnStart": false,
+        "drawPerTurn": 0,
         "sharedTurn": true
       },
       "countersStartingValues": [],
