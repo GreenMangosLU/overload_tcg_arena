@@ -23,14 +23,14 @@
         "layout": {
           "direction": "column",
           "content": [
+            { "section": "Transcript" },
             {
               "direction": "row",
               "content": [
-                {"section": "ENV Slot"},
-                {"section": "Play Zone"}
+                { "section": "ENV Slot" },
+                { "section": "Play Zone" }
               ]
-            },
-            {"section": "Transcript"}
+            }
           ]
         },
         "sectionsDict": {
