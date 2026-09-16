@@ -27,15 +27,15 @@
             {
               "direction": "row",
               "content": [
-                { "section": "ENVSlot" },
-                { "section": "PlayZone" }
+                { "section": "ENV Slot" },
+                { "section": "Play Zone" }
               ]
             }
           ]
         },
         "sectionsDict": {
-          "ENVSlot": { "isHidden": "no", "height": "SMALL", "alignment": "CENTER" },
-          "PlayZone": { "isHidden": "yes", "height": "SMALL", "alignment": "CENTER" },
+          "ENV Slot": { "isHidden": "no", "height": "SMALL", "alignment": "START" },
+          "Play Zone": { "isHidden": "yes", "height": "SMALL", "alignment": "START" },
           "Transcript": { "isHidden": "no", "height": "SMALL", "alignment": "START" }
         }
       }
