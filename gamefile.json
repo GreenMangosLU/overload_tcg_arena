@@ -6,24 +6,40 @@
       { "title": "Classic", "gameplay": "Classic" }
     ]
   },
+  "menuBackgroundImage": "https://overload-rulebook.netlify.app/assets/packaging_starter.png",
   "gameplay": {
     "Classic": {
       "mulligan": { 
-        "startingHandSize": 5 
+        "startingHandSize": 4 
       },
       "newTurn": { 
         "drawOnStart": false,
-        "sharedTurn": false,
+        "sharedTurn": true,
         "drawPerTurn": 1 
       },
       "countersStartingValues": [],
       "sections": {
         "layout": {
           "direction": "column",
-          "content": [{ "section": "Board" }]
+          "content": [
+            {
+              "direction": "row",
+              "content": [
+                {"section": "Drop Pile"},
+                {"section": "ENV Slot"},
+                {"section": "Play Zone"},
+                {"section": "Library"}
+              ]
+            },
+            {"direction": "row", "content": [{"section": "Transcript"}]}
+          ]
         },
         "sectionsDict": {
-          "Board": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "Drop Pile": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
+          "ENV Slot": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
+          "Play Zone": { "isHidden": "yes", "height": "MEDIUM", "alignment": "CENTER" },
+          "Library": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
+          "Transcript": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
         }
       }
     }
