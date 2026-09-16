@@ -25,6 +25,7 @@
         }
       }
     }
+  },
   "cards": {
     "dataUrl": "https://raw.githubusercontent.com/GreenMangosLU/overload_tcg_arena/refs/heads/main/cards.json",
     "cardBack": "https://github.com/GreenMangosLU/overload_tcg_arena/blob/main/cardback.jpg?raw=true"
