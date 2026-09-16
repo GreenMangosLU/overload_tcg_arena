@@ -6,6 +6,7 @@
       { "title": "Classic", "gameplay": "Classic" }
     ]
   },
+  "cardRotation": 90,
   "menuBackgroundImage": "https://overload-rulebook.netlify.app/assets/packaging_starter.png",
   "gameplay": {
     "Classic": {
@@ -25,21 +26,17 @@
             {
               "direction": "row",
               "content": [
-                {"section": "Drop Pile"},
                 {"section": "ENV Slot"},
-                {"section": "Play Zone"},
-                {"section": "Library"}
+                {"section": "Play Zone"}
               ]
             },
             {"direction": "row", "content": [{"section": "Transcript"}]}
           ]
         },
         "sectionsDict": {
-          "Drop Pile": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
-          "ENV Slot": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
-          "Play Zone": { "isHidden": "yes", "height": "MEDIUM", "alignment": "CENTER" },
-          "Library": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" },
-          "Transcript": { "isHidden": "no", "height": "MEDIUM", "alignment": "CENTER" }
+          "ENV Slot": { "isHidden": "no", "height": "DEFAULT", "alignment": "CENTER" },
+          "Play Zone": { "isHidden": "yes", "height": "DEFAULT", "alignment": "CENTER" },
+          "Transcript": { "isHidden": "no", "height": "DEFAULT", "alignment": "CENTER" }
         }
       }
     }
