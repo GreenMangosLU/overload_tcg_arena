@@ -21,7 +21,7 @@
       "countersStartingValues": [0],
       "sections": {
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "content": [
             { "section": "ENV Slot"},
             { "section": "Transcript"}
