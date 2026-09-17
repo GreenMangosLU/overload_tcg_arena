@@ -21,14 +21,21 @@
       "countersStartingValues": [0],
       "sections": {
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [
-            { "section": "ENV Slot"},
-            { "section": "Transcript"}
+            { "section": "Transcript"},
+            {
+              "direction": "column",
+              "content": [
+                { "section": "ENV"},
+                { "section": "Play"}
+              ]
+            }
           ]
         },
         "sectionsDict": {
-          "ENV Slot": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" },
+          "ENV": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" },
+          "Play": { "isHidden": "yes", "height": "DEFAULT", "alignment": "START" },
           "Transcript": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" }
         }
       }
