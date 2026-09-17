@@ -31,7 +31,8 @@
                 { "section": "Play Zone" }
               ]
             }
-          ]
+          ],
+          "style": {"width": "90vh"}
         },
         "sectionsDict": {
           "ENV Slot": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" },
