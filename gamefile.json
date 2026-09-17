@@ -34,9 +34,9 @@
           ]
         },
         "sectionsDict": {
-          "ENV Slot": { "isHidden": "no", "height": 10, "alignment": "START" },
-          "Play Zone": { "isHidden": "yes", "height": 10, "alignment": "START" },
-          "Transcript": { "isHidden": "no", "height": 10, "alignment": "START" }
+          "ENV Slot": { "isHidden": "no", "height": 10vh, "alignment": "START" },
+          "Play Zone": { "isHidden": "yes", "height": 10vh, "alignment": "START" },
+          "Transcript": { "isHidden": "no", "height": 10vh, "alignment": "START" }
         }
       }
     }
