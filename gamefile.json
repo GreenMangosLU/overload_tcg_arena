@@ -27,7 +27,7 @@
             {
               "direction": "row",
               "content": [
-                { "section": "ENV Slot" },
+                { "section": "ENV Slot", "style": {"width": "15vh"}},
                 { "section": "Play Zone" }
               ]
             }
