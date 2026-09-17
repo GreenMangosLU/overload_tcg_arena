@@ -23,8 +23,8 @@
         "layout": {
           "direction": "row",
           "content": [
-            { "section": "Transcript"},
-            { "section": "ENV Slot"}
+            { "section": "ENV Slot"},
+            { "section": "Transcript"}
           ]
         },
         "sectionsDict": {
