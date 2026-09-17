@@ -21,14 +21,14 @@
       "countersStartingValues": [0],
       "sections": {
         "layout": {
-          "direction": "column",
+          "direction": "row",
           "content": [
-            { "section": "Transcript", "style": {"width": "90vh"}},
+            { "section": "Transcript"},
             {
-              "direction": "row",
+              "direction": "column",
               "content": [
-                { "section": "ENV Slot", "style": {"width": "15vh"}},
-                { "section": "Play Zone", "style": {"width": "15vh", "marginRight": "60vh"}}
+                { "section": "ENV Slot"},
+                { "section": "Play Zone"}
               ]
             }
           ]
