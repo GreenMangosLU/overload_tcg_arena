@@ -24,12 +24,7 @@
           "direction": "row",
           "content": [
             { "section": "Transcript"},
-            {
-              "direction": "column",
-              "content": [
-                { "section": "ENV Slot"}
-              ]
-            }
+            { "section": "ENV Slot"}
           ]
         },
         "sectionsDict": {
