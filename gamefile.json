@@ -23,16 +23,15 @@
         "layout": {
           "direction": "column",
           "content": [
-            { "section": "Transcript" },
+            { "section": "Transcript", "style": {"width": "90vh"}},
             {
               "direction": "row",
               "content": [
                 { "section": "ENV Slot", "style": {"width": "15vh"}},
-                { "section": "Play Zone" }
+                { "section": "Play Zone", "style": {"width": "75vh"}}
               ]
             }
-          ],
-          "style": {"width": "90vh"}
+          ]
         },
         "sectionsDict": {
           "ENV Slot": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" },
