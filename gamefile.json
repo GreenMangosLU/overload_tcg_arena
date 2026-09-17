@@ -21,11 +21,11 @@
       "countersStartingValues": [0],
       "sections": {
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "content": [
             { "section": "Transcript"},
             {
-              "direction": "column",
+              "direction": "row",
               "content": [
                 { "section": "ENV"},
                 { "section": "Play"}
