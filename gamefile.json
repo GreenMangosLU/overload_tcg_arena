@@ -27,15 +27,13 @@
             {
               "direction": "column",
               "content": [
-                { "section": "ENV Slot"},
-                { "section": "Play Zone"}
+                { "section": "ENV Slot"}
               ]
             }
           ]
         },
         "sectionsDict": {
           "ENV Slot": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" },
-          "Play Zone": { "isHidden": "yes", "height": "DEFAULT", "alignment": "START" },
           "Transcript": { "isHidden": "no", "height": "DEFAULT", "alignment": "START" }
         }
       }
