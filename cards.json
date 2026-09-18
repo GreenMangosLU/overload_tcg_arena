@@ -5,14 +5,462 @@
       "front": {
         "name": "Zenith AC",
         "type": "OJ",
-        "cost": 0,
+        "cost": 4,
         "color": "Green",
         "image": "https://overload-rulebook.netlify.app/assets/cards/card01.jpg"
       }
     },
     "name": "Zenith AC",
     "type": "OJ",
+    "cost": 4,
+    "color": "Green"
+  },
+  "S1-002": {
+    "id": "S1-002",
+    "face": {
+      "front": {
+        "name": "Cinder AC",
+        "type": "OJ",
+        "cost": 4,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card02.jpg"
+      }
+    },
+    "name": "Cinder AC",
+    "type": "OJ",
+    "cost": 4,
+    "color": "Red"
+  },
+  "S1-003": {
+    "id": "S1-003",
+    "face": {
+      "front": {
+        "name": "Tidal AC",
+        "type": "OJ",
+        "cost": 4,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card03.jpg"
+      }
+    },
+    "name": "Tidal AC",
+    "type": "OJ",
+    "cost": 4,
+    "color": "Blue"
+  },
+  "S1-004": {
+    "id": "S1-004",
+    "face": {
+      "front": {
+        "name": "Rootsnare WA",
+        "type": "OJ",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card04.jpg"
+      }
+    },
+    "name": "Rootsnare WA",
+    "type": "OJ",
     "cost": 0,
+    "color": "Green"
+  },
+  "S1-005": {
+    "id": "S1-005",
+    "face": {
+      "front": {
+        "name": "Bloodbath WA",
+        "type": "OJ",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card05.jpg"
+      }
+    },
+    "name": "Bloodbath WA",
+    "type": "OJ",
+    "cost": 0,
+    "color": "Red"
+  },
+  "S1-006": {
+    "id": "S1-006",
+    "face": {
+      "front": {
+        "name": "Riptide WA",
+        "type": "OJ",
+        "cost": 0,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card06.jpg"
+      }
+    },
+    "name": "Riptide WA",
+    "type": "OJ",
+    "cost": 0,
+    "color": "Blue"
+  },
+  "S1-007": {
+    "id": "S1-007",
+    "face": {
+      "front": {
+        "name": "Mosskip RTE",
+        "type": "OJ",
+        "cost": 2,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card07.jpg"
+      }
+    },
+    "name": "Mosskip RTE",
+    "type": "OJ",
+    "cost": 2,
+    "color": "Green"
+  },
+  "S1-008": {
+    "id": "S1-008",
+    "face": {
+      "front": {
+        "name": "Scorchshift RTE",
+        "type": "OJ",
+        "cost": 2,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card08.jpg"
+      }
+    },
+    "name": "Scorchshift RTE",
+    "type": "OJ",
+    "cost": 2,
+    "color": "Red"
+  },
+  "S1-009": {
+    "id": "S1-009",
+    "face": {
+      "front": {
+        "name": "Tidepart RTE",
+        "type": "OJ",
+        "cost": 2,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card09.jpg"
+      }
+    },
+    "name": "Tidepart RTE",
+    "type": "OJ",
+    "cost": 2,
+    "color": "Blue"
+  },
+  "S1-010": {
+    "id": "S1-010",
+    "face": {
+      "front": {
+        "name": "Slumberoot TLE",
+        "type": "OJ",
+        "cost": 2,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card10.jpg"
+      }
+    },
+    "name": "Slumberoot TLE",
+    "type": "OJ",
+    "cost": 2,
+    "color": "Green"
+  },
+  "S1-011": {
+    "id": "S1-011",
+    "face": {
+      "front": {
+        "name": "Emberest TLE",
+        "type": "OJ",
+        "cost": 2,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card11.jpg"
+      }
+    },
+    "name": "Emberest TLE",
+    "type": "OJ",
+    "cost": 2,
+    "color": "Red"
+  },
+  "S1-012": {
+    "id": "S1-012",
+    "face": {
+      "front": {
+        "name": "Tranquille TLE",
+        "type": "OJ",
+        "cost": 2,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card12.jpg"
+      }
+    },
+    "name": "Tranquille TLE",
+    "type": "OJ",
+    "cost": 2,
+    "color": "Blue"
+  },
+  "S1-013": {
+    "id": "S1-013",
+    "face": {
+      "front": {
+        "name": "Cubeneko",
+        "type": "LeGIT",
+        "cost": 2,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card13.jpg"
+      }
+    },
+    "name": "Cubeneko",
+    "type": "LeGIT",
+    "cost": 2,
+    "color": "Red"
+  },
+  "S1-014": {
+    "id": "S1-014",
+    "face": {
+      "front": {
+        "name": "Bubbleneko",
+        "type": "LeGIT",
+        "cost": 2,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card14.jpg"
+      }
+    },
+    "name": "Bubbleneko",
+    "type": "LeGIT",
+    "cost": 2,
+    "color": "Blue"
+  },
+  "S1-015": {
+    "id": "S1-015",
+    "face": {
+      "front": {
+        "name": "Leafneko",
+        "type": "LeGIT",
+        "cost": 2,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card15.jpg"
+      }
+    },
+    "name": "Leafneko",
+    "type": "LeGIT",
+    "cost": 2,
+    "color": "Green"
+  },
+  "S1-016": {
+    "id": "S1-016",
+    "face": {
+      "front": {
+        "name": "The UP Parser",
+        "type": "ENV",
+        "cost": 0,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card16.jpg"
+      }
+    },
+    "name": "The UP Parser",
+    "type": "ENV",
+    "cost": 0,
+    "color": "Red"
+  },
+  "S1-017": {
+    "id": "S1-017",
+    "face": {
+      "front": {
+        "name": "UP CSM",
+        "type": "ENV",
+        "cost": 0,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card17.jpg"
+      }
+    },
+    "name": "UP CSM",
+    "type": "ENV",
+    "cost": 0,
+    "color": "Blue"
+  },
+  "S1-018": {
+    "id": "S1-018",
+    "face": {
+      "front": {
+        "name": "UP ACM",
+        "type": "ENV",
+        "cost": 0,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card18.jpg"
+      }
+    },
+    "name": "UP ACM",
+    "type": "ENV",
+    "cost": 0,
+    "color": "Blue"
+  },
+  "S1-019": {
+    "id": "S1-019",
+    "face": {
+      "front": {
+        "name": "DCS Servers",
+        "type": "ENV",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card19.jpg"
+      }
+    },
+    "name": "DCS Servers",
+    "type": "ENV",
+    "cost": 0,
+    "color": "Green"
+  },
+  "S1-020": {
+    "id": "S1-020",
+    "face": {
+      "front": {
+        "name": "UP CURSOR",
+        "type": "ENV",
+        "cost": 0,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card20.jpg"
+      }
+    },
+    "name": "UP CURSOR",
+    "type": "ENV",
+    "cost": 0,
+    "color": "Green"
+  },
+  "S1-021": {
+    "id": "S1-021",
+    "face": {
+      "front": {
+        "name": "Inigo",
+        "type": "CSW",
+        "cost": 3,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card21.jpg"
+      }
+    },
+    "name": "Inigo",
+    "type": "CSW",
+    "cost": 3,
+    "color": "Red"
+  },
+  "S1-022": {
+    "id": "S1-022",
+    "face": {
+      "front": {
+        "name": "JayJay",
+        "type": "CSW",
+        "cost": 3,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card22.jpg"
+      }
+    },
+    "name": "JayJay",
+    "type": "CSW",
+    "cost": 3,
+    "color": "Blue"
+  },
+  "S1-023": {
+    "id": "S1-023",
+    "face": {
+      "front": {
+        "name": "Cherisse",
+        "type": "CSW",
+        "cost": 3,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card23.jpg"
+      }
+    },
+    "name": "Cherisse",
+    "type": "CSW",
+    "cost": 3,
+    "color": "Red"
+  },
+  "S1-024": {
+    "id": "S1-024",
+    "face": {
+      "front": {
+        "name": "DCS-Chan",
+        "type": "CSW",
+        "cost": 3,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card24.jpg"
+      }
+    },
+    "name": "DCS-Chan",
+    "type": "CSW",
+    "cost": 3,
+    "color": "Green"
+  },
+  "S1-025": {
+    "id": "S1-025",
+    "face": {
+      "front": {
+        "name": "Sir Jem",
+        "type": "PROF",
+        "cost": 4,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card25.jpg"
+      }
+    },
+    "name": "Sir Jem",
+    "type": "PROF",
+    "cost": 4,
+    "color": "Green"
+  },
+  "S1-026": {
+    "id": "S1-026",
+    "face": {
+      "front": {
+        "name": "Sir Daryll",
+        "type": "PROF",
+        "cost": 4,
+        "color": "Blue",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card26.jpg"
+      }
+    },
+    "name": "Sir Daryll",
+    "type": "PROF",
+    "cost": 4,
+    "color": "Blue"
+  },
+  "S1-027": {
+    "id": "S1-027",
+    "face": {
+      "front": {
+        "name": "Sir Kevin",
+        "type": "PROF",
+        "cost": 4,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card27.jpg"
+      }
+    },
+    "name": "Sir Kevin",
+    "type": "PROF",
+    "cost": 4,
+    "color": "Red"
+  },
+  "S1-028": {
+    "id": "S1-028",
+    "face": {
+      "front": {
+        "name": "Sir JJV",
+        "type": "CHAIR",
+        "cost": 4,
+        "color": "Red",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card28.jpg"
+      }
+    },
+    "name": "Sir JJV",
+    "type": "CHAIR",
+    "cost": 4,
+    "color": "Red"
+  },
+  "S1-029": {
+    "id": "S1-029",
+    "face": {
+      "front": {
+        "name": "DCS Chair",
+        "type": "CHAIR",
+        "cost": 4,
+        "color": "Green",
+        "image": "https://overload-rulebook.netlify.app/assets/cards/card29.jpg"
+      }
+    },
+    "name": "DCS Chair",
+    "type": "CHAIR",
+    "cost": 4,
     "color": "Green"
   }
 }
