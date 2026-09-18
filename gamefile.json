@@ -27,7 +27,7 @@
               "direction": "column",
               "content": [
                 { "section": "ENV", "style": {"width": "15vh"}},
-                { "section": "Play", "style": {"marginLeft": "auto"}}
+                { "section": "Play", "style": {"marginRight": "auto"}}
               ]
             },
             { "section": "Transcript"}
