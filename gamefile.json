@@ -21,13 +21,13 @@
       "countersStartingValues": [0],
       "sections": {
         "layout": {
-          "direction": "row",
+          "direction": "column",
           "content": [
             {
-              "direction": "column",
+              "direction": "row",
               "content": [
                 { "section": "ENV", "style": {"width": "15vh"}},
-                { "section": "Play", "style": {"marginRight": "auto"}}
+                { "section": "Play"}
               ]
             },
             { "section": "Transcript"}
