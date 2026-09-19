@@ -259,14 +259,14 @@
     "id": "S1-017",
     "face": {
       "front": {
-        "name": "UP CSM",
+        "name": "UP CSI",
         "type": "ENV",
         "cost": 0,
         "color": "Blue",
         "image": "https://overload-rulebook.netlify.app/assets/cards/card17.jpg"
       }
     },
-    "name": "UP CSM",
+    "name": "UP CSI",
     "type": "ENV",
     "cost": 0,
     "color": "Blue"
